@@ -1,0 +1,3 @@
+<items gfxroot="gfx/items/" version="1">
+  <active description="Unreliable, but useful." gfx="Collectibles_Broken_Debug_Tools.png" maxcharges="2" name="Broken Debug Tools" />
+</items>
