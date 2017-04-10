@@ -1,3 +1,5 @@
 <items gfxroot="gfx/items/" version="1">
-  <active description="Unreliable, but useful." gfx="Collectibles_Broken_Debug_Tools.png" maxcharges="2" name="Broken Debug Tools" />
+  <active description="Unreliable, but useful" gfx="Collectibles_Broken_Debug_Tools.png" maxcharges="2" name="Broken Debug Tools" />
+  <active description="Coming together" gfx="Collectibles_Compiler.png" maxcharges="0" cooldown="60" name="Compiler" />
+  <active description="Old reliable" gfx="Collectibles_Minimal_Debug_Tools.png" maxcharges="2" name="Minimal Debug Tools" />
 </items>
